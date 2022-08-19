@@ -1,6 +1,6 @@
-Ola eu sou o Nivaldo Santiago 👋
-- Hoje trabalho com freelances no campo de Front End.
+Olá eu sou o Nivaldo Santiago 👋
 - Estudo engenharia da Computação na Univesp
+- Sou desenvolvedor Front End Jr pela Alura
 - python e datascience auto de data
 
 
@@ -13,6 +13,8 @@ Ola eu sou o Nivaldo Santiago 👋
 ##
 
  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+ <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+ <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
  
 ##
 
