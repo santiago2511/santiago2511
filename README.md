@@ -1,16 +1,13 @@
-### Hi there 👋
+Ola eu sou o Nivaldo Santiago 👋
+- Hoje trabalho com freelances no campo de Front End.
+- Estudo engenharia da Computação na Univesp
+- python e datascience auto de data
 
-<!--
-**santiago2511/santiago2511** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<div align="center">
+  <a href="https://github.com/santiago2511">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=santiago2511&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=santiago2511&layout=compact&langs_count=7&theme=dark"/>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ <img align="center" alt="Rafa-Python" height="30" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
