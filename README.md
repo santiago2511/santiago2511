@@ -1,6 +1,6 @@
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Sou+Nivado+Santiago;Sou+estudante+de+engenharia+da+computação+na+Univesp;e+programador+front+end;Seja+Bem+Vindo!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Sou+Nivaldo+Santiago;Sou+estudante+de+engenharia+da+computação;na+Univesp;e+programador+front+end;Seja+Bem+Vindo!+:%29)](https://git.io/typing-svg)
 
 
 Olá eu sou o Nivaldo Santiago
