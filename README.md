@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=20&center=true&vCenter=true&width=1000&lines=Olá,+Sou+Nivaldo+Santiago;estudante+de+engenharia+da+computação+na+Univesp;e+programador+front+end;Seja+Bem+Vindo!+:%29)](https://git.io/typing-svg)
 
 
-<h3>Olá eu sou o Nivaldo Santiago</h3>
+<h1>Olá eu sou o Nivaldo Santiago</h1>
 
 - Desenvolvedor Front End formado pela <a href=https://www.alura.com.br/sobre>Alura<a/> em parceria com a empresa  <a href=https://www.alura.com.br/oracle-next-education/>Oracle corporation<a/>
 
@@ -19,17 +19,23 @@
 
 ##
 
-<h4>Tecnologias em que tenho conhecimento e continuo estudando.<h4/>
+<h2>Tecnologias em que tenho conhecimento e continuo estudando.<h2/>
 
- <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
- <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
- <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
- <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-     
+
+<img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"><br>Python
+
+<img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"><br>HTML
+
+<img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"><br>JavaScrip
+
+<img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"><br>CSS
+
+<div>
+
  ##
  
  
-<hr>Contate - Me<hr/>
+<h3>Contate - Me<h3/>
 
 <a href="https://www.linkedin.com/feed/?trk=homepage-basic_google-one-tap-submit" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href = "mailto:https://santiagojunior251@gmail.com?hl=pt-BR#inbox"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blanc"></a>
