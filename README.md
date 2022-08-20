@@ -1,6 +1,7 @@
 Olá eu sou o Nivaldo Santiago 👋
-- Estudo engenharia da Computação na Univesp
-- Sou desenvolvedor Front End Jr pela Alura
+- Desenvolvedor Front End formado pela <a href=https://www.alura.com.br/sobre>Alura<a/> em parceria com a empresa Oracle corporation.
+- Estudante de Engenharia da Computação na <a href=https://univesp.br/institucional>Univesp<a/> e Ciencias de Dados em um curso ministrado pelo Google em <a href=https://portal.ciee.org.br/para-voce/google-ciee/>parceria<a/> com o  <a href=https://portal.ciee.org.br/institucional/o-que-e-o-ciee/>Centro de Integração Empresa-Escola - CIEE<a/>
+
 - python e datascience auto de data
 
 
