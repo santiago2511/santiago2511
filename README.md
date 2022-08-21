@@ -13,7 +13,7 @@ Olá eu sou o Nivaldo Santiago
 <div align="center">
   <a href="https://github.com/santiago2511">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=santiago2511&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=santiago2511&layout=compact&langs_count=7&theme=dark"/>.
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=santiago2511&layout=compact&langs_count=7&theme=dark"/>
  
 </div>
 
