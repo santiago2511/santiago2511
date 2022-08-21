@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=20&center=true&vCenter=true&width=1000&lines=Olá,+Sou+Nivaldo+Santiago;estudante+de+engenharia+da+computação+na+Univesp;e+programador+front+end;Seja+Bem+Vindo!+:%29)](https://git.io/typing-svg)
 
 
-Olá eu sou o Nivaldo Santiago
+##### Olá eu sou o Nivaldo Santiago
 
 - Desenvolvedor Front End formado pela <a href=https://www.alura.com.br/sobre>Alura<a/>, em parceria com a empresa  <a href=https://www.alura.com.br/oracle-next-education/>Oracle corporation<a/>
 
@@ -20,7 +20,7 @@ Olá eu sou o Nivaldo Santiago
 ##
 <div>
 
-Tecnologias em que tenho conhecimento e continuo estudando.
+##### Tecnologias em que tenho conhecimento e continuo estudando.
 <div/>
 <table>
   <tr>
@@ -37,8 +37,7 @@ Tecnologias em que tenho conhecimento e continuo estudando.
  
  <div>
  
- 
-<p>Contate - Me<p/>
+##### Contate - Me
 
 
 <a href="https://www.linkedin.com/feed/?trk=homepage-basic_google-one-tap-submit" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
