@@ -40,7 +40,7 @@
 
 
 <a href="https://www.linkedin.com/feed/?trk=homepage-basic_google-one-tap-submit" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:https://santiagojunior251@gmail.com?hl=pt-BR#inbox"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blanc"></a>
+  <a href = "mailto:https://https://www.linkedin.com/in/nivaldo-santiago-33864723?hl=pt-BR#inbox"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blanc"></a>
   
 <div align="center">
 <br><p align="centre"><b>Contador de Visitantes</b></p>  
