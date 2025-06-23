@@ -6,7 +6,7 @@
 
 
 
-- Estudante de Engenharia da Computação na <a href=https://univesp.br/institucional>Univesp<a/> e Ciencias de Dados em um curso ministrado pelo Google em <a href=https://portal.ciee.org.br/para-voce/google-ciee/>parceria<a/> com o  <a href=https://portal.ciee.org.br/institucional/o-que-e-o-ciee/>Centro de Integração Empresa-Escola - CIEE<a/>.
+- Estudante de Engenharia da Computação na <a href=https://univesp.br/institucional>Univesp<a/>
 
 <div align="center">
     <a href="https://github.com/santiago2511">
