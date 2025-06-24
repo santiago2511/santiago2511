@@ -1,5 +1,5 @@
 <h1 align="center">🚀 Nivaldo Santiago</h1>
-<h3 align="center">Engenharia da Computação • Soluções Inteligentes e Lucrativas com IA, Automação e Bots</h3>
+<h3 align="center"> Engenharia da Computação  • Soluções Inteligentes e Lucrativas com IA e IOT, Automação e Bots</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=00bfbf&size=24&center=true&vCenter=true&width=1000&lines=Desenvolvedor+de+Soluções+Inovadoras;Projetos+com+IA,+Automação,+Trading+e+IoT;Bem-vindo+ao+meu+GitHub!" />
