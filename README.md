@@ -13,7 +13,6 @@
 |--------|------------|-------------|
 | 🏍️ **Computador de Bordo Premium** | Sistema embarcado com ESP32 para motos e carros, exibindo informações do veículo em tempo real | ESP32, Bluetooth, C++, Android, OBD2 |
 | 🛒 **Loja Virtual com IA** | E-commerce inteligente com geração automática de conteúdo, produtos, SEO e painel de controle | Next.js, GPT, TailwindCSS, Vercel |
-
 | 🪙 **Bot de Trading para Binance** | Plataforma estilo startup com foco em lucro automático com criptomoedas (Day Trade e HODL inteligente) | Python, Binance API, TensorFlow, FastAPI |
 | 🧱 **Gerenciador de Estoque e Obras** | Sistema ERP simples e eficiente para empresas de energia gerenciarem estoques e cronogramas de obra | Python, SQLite, Flask, React |
 
