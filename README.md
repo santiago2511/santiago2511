@@ -1,48 +1,65 @@
+<h1 align="center">🚀 Nivaldo Santiago</h1>
+<h3 align="center">Engenharia da Computação • Soluções Inteligentes e Lucrativas com IA, Automação e Bots</h3>
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00bfbf&size=24&center=true&vCenter=true&width=1000&lines=Desenvolvedor+de+Soluções+Inovadoras;Projetos+com+IA,+Automação,+Trading+e+IoT;Bem-vindo+ao+meu+GitHub!" />
+</p>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=20&center=true&vCenter=true&width=1000&lines=Olá,+Sou+Nivaldo+Santiago;estudante+de+engenharia+da+computação+na+Univesp;e+programador+front+end;Seja+Bem+Vindo!+:%29)](https://git.io/typing-svg)
+---
 
-##### Olá eu sou o Nivaldo Santiago
+## 💼 Projetos Estratégicos
 
+| Projeto | Descrição | Tecnologias |
+|--------|------------|-------------|
+| 🏍️ **Computador de Bordo Premium** | Sistema embarcado com ESP32 para motos e carros, exibindo informações do veículo em tempo real | ESP32, Bluetooth, C++, Android, OBD2 |
+| 🛒 **Loja Virtual com IA** | E-commerce inteligente com geração automática de conteúdo, produtos, SEO e painel de controle | Next.js, GPT, TailwindCSS, Vercel |
+| 📈 **Bot de Trading para IQ Option** | Robô operacional com IA e estratégia MHI, usando Soros e Martingale de forma controlada | Python, Sklearn, Pandas, IQ Option API |
+| 🪙 **Bot de Trading para Binance** | Plataforma estilo startup com foco em lucro automático com criptomoedas (Day Trade e HODL inteligente) | Python, Binance API, TensorFlow, FastAPI |
+| 🧱 **Gerenciador de Estoque e Obras** | Sistema ERP simples e eficiente para empresas de energia gerenciarem estoques e cronogramas de obra | Python, SQLite, Flask, React |
 
+---
 
-- Estudante de Engenharia da Computação na <a href=https://univesp.br/institucional>Univesp<a/>
+## 🧠 Especialidades
 
-<div align="center">
-    <a href="https://github.com/santiago2511">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=santiago2511&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=santiago2511&layout=compact&langs_count=7&theme=dark"/>.
- </div>
+- ⚙️ Automação de Processos com Python
+- 📊 Bots Inteligentes para Mercado Financeiro
+- 🌍 Criação de Sites de Alta Performance com IA
+- 🏗️ Soluções Empresariais para gestão de dados e operações
+- 🧩 Integração com SAP, Power BI e APIs externas
 
-##
+---
 
-<div>
+## 🛠️ Tecnologias
 
-##### Tecnologias em que tenho conhecimento e continuo estudando.
-<div/>
-<table>
-  <tr>
-      <th><img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"><br>Python </th>
-      <th><img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"><br>HTML </th>
-      <th><img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"><br>JavaScrip </th>
-      <th><img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"><br>CSS </th>
-  <tr/>
- <table/>
-<div/>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=nextdotjs)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwindcss)
+![Binance API](https://img.shields.io/badge/Binance-yellow?style=for-the-badge&logo=binance)
 
-##
+---
 
-<div>
+## 📊 Estatísticas GitHub
 
- ##### Contate - Me
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=santiago2511&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=santiago2511&layout=compact&theme=dracula"/>
+</p>
 
+---
 
-<a href="https://www.linkedin.com/feed/?trk=homepage-basic_google-one-tap-submit" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:https://https://www.linkedin.com/in/nivaldo-santiago-33864723?hl=pt-BR#inbox"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blanc"></a>
-  
-<div align="center">
-<br><p align="centre"><b>Contador de Visitantes</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{santiago2511}/count.svg" /></p> 
-<br>
-</div>
-  
+## 📬 Contato
+
+- 🔗 [LinkedIn](https://www.linkedin.com/in/nivaldo-santiago-33864723/)
+- 📧 santiagojunior251@gmail.com
+
+---
+
+## 📈 Contador de Visitantes
+
+<p align="center">
+  <img src="https://profile-counter.glitch.me/santiago2511/count.svg" />
+</p>
