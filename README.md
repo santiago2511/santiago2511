@@ -1,5 +1,5 @@
 <h1 align="center">🚀 Nivaldo Santiago</h1>
-<h3 align="center"> Engenharia da Computação  • Soluções Inteligentes e Lucrativas com IA e IOT, Automação e Bots</h3>
+<h3 align="center">Engenharia da Computação • Soluções Inteligentes e Lucrativas com IA, IoT, Automação e Bots</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=00bfbf&size=24&center=true&vCenter=true&width=1000&lines=Desenvolvedor+de+Soluções+Inovadoras;Projetos+com+IA,+Automação,+Trading+e+IoT;Bem-vindo+ao+meu+GitHub!" />
@@ -9,22 +9,48 @@
 
 ## 💼 Projetos Estratégicos
 
-| Projeto | Descrição | Tecnologias |
-|--------|------------|-------------|
-| 🏍️ **Computador de Bordo Premium** | Sistema embarcado com ESP32 para motos e carros, exibindo informações do veículo em tempo real | ESP32, Bluetooth, C++, Android, OBD2 |
-| 🛒 **Loja Virtual com IA** | E-commerce inteligente com geração automática de conteúdo, produtos, SEO e painel de controle | Next.js, GPT, TailwindCSS, Vercel |
-| 🪙 **Bot de Trading para Binance** | Plataforma estilo startup com foco em lucro automático com criptomoedas (Day Trade e HODL inteligente) | Python, Binance API, TensorFlow, FastAPI |
-| 🧱 **Gerenciador de Estoque e Obras** | Sistema ERP simples e eficiente para empresas de energia gerenciarem estoques e cronogramas de obra | Python, SQLite, Flask, React |
+### 🏍️ **Computador de Bordo Premium**
+Sistema embarcado completo, projetado para transformar veículos convencionais em plataformas inteligentes de monitoramento em tempo real.
+
+**🔧 Funcionalidades principais:**
+- **Painel de Instrumentos Digital:** Velocímetro, RPM, temperatura, nível de combustível e consumo em tempo real.
+- **Computador de Bordo:** Leitura contínua de sensores do veículo via OBD2 e interfaces adicionais com ESP32.
+- **Alertas Inteligentes de Manutenção:** Notificações automáticas para troca de óleo, pastilhas, bateria e revisões.
+- **Relatórios Avançados:** Histórico de desempenho, eficiência, manutenção e uso do veículo.
+- **Conectividade:** Comunicação via Bluetooth com app Android dedicado.
+
+**🔌 Tecnologias:** ESP32, C++, OBD2, Bluetooth, Android, OLED/TFT Display
+
+---
+
+### 🛒 **Loja Virtual com IA**
+E-commerce inteligente com geração automática de conteúdo, produtos, SEO e painel de controle.
+
+**Tecnologias:** Next.js, GPT, TailwindCSS, Vercel
+
+---
+
+### 🪙 **Bot de Trading para Binance**
+Plataforma estilo startup com foco em operações lucrativas em criptoativos via estratégias inteligentes (day trade, análise técnica, HODL automatizado).
+
+**Tecnologias:** Python, Binance API, TensorFlow, FastAPI
+
+---
+
+### 🧱 **Gerenciador de Estoque e Obras**
+ERP prático e direto para empresas de energia, com gestão de materiais, cronogramas de obras e equipes.
+
+**Tecnologias:** Python, SQLite, Flask, React
 
 ---
 
 ## 🧠 Especialidades
 
-- ⚙️ Automação de Processos com Python
-- 📊 Bots Inteligentes para Mercado Financeiro
-- 🌍 Criação de Sites de Alta Performance com IA
-- 🏗️ Soluções Empresariais para gestão de dados e operações
-- 🧩 Integração com SAP, Power BI e APIs externas
+- ⚙️ Automação de Processos com Python (Selenium, Playwright)
+- 🤖 Bots Inteligentes para Mercado Financeiro
+- 🌍 Sites com IA e SEO automático
+- 🏗️ Soluções Empresariais para gestão de operações
+- 🔌 Projetos embarcados com ESP32 e IoT
 
 ---
 
@@ -38,6 +64,8 @@
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwindcss)
 ![Binance API](https://img.shields.io/badge/Binance-yellow?style=for-the-badge&logo=binance)
+![ESP32](https://img.shields.io/badge/ESP32-MCU-blue?style=for-the-badge)
+![Playwright](https://img.shields.io/badge/Playwright-000?style=for-the-badge&logo=playwright&logoColor=green)
 
 ---
 
