@@ -88,5 +88,4 @@ ERP prático e direto para empresas de energia, com gestão de materiais, cronog
 ## 📈 Contador de Visitantes
 
 <p align="center">
-  <img src="https://profile-counter.glitch.me/santiago2511/count.svg" />
-</p>
+  <img src="https://profile-counter.glitch.me/santiago2511/count```
