@@ -84,8 +84,8 @@ ERP prático e direto para empresas de energia, com gestão de materiais, cronog
 - 📧 nivaldo.santiago@outlook.com.br
 
 ---
-
 ## 📈 Contador de Visitantes
 
 <p align="center">
-  <img src="https://profile-counter.glitch.me/santiago2511/count```
+  <img src="https://profile-counter.glitch.me/santiago2511/count.svg" alt="Contador de Visitantes"
+
