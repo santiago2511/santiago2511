@@ -9,7 +9,7 @@
 
 ## 💼 Projetos Estratégicos
 
-### 🏍️ **Computador de Bordo Premium**
+### 🏍️ **Computador de Bordo e assistente de manutenção**
 Sistema embarcado completo, projetado para transformar veículos convencionais em plataformas inteligentes de monitoramento em tempo real.
 
 **🔧 Funcionalidades principais:**
