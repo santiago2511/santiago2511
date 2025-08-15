@@ -1,4 +1,4 @@
-<h1 align="center">👨🏽‍🏫 Nivaldo Santiago</h1>
+<h1 align="center"> Nivaldo Santiago</h1>
 <h3 align="center">Engenharia da Computação • Soluções Inteligentes e Lucrativas com IA, IoT, Automação e Bots</h3>
 
 <p align="center">
